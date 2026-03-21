@@ -76,7 +76,7 @@
 ## 🏆 Algorithm & Problem Solving
 
 <div align="left">
-  <a href="https://solved.ac/profile/jlime1129">
-    <img src="http://mazassumnida.wtf/api/v1/badge/generate?handle=jlime1129" alt="Baekjoon Tier"/>
+  <a href="https://solved.ac/profile/maker29">
+    <img src="http://mazassumnida.wtf/api/v1/badge/generate?handle=maker29" alt="Baekjoon Tier"/>
   </a>
 </div>
