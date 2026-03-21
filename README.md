@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Hi there, I'm [영문 이름 입력] 👋</h1>
+  <h1>Hi there, I'm Jihoon Lee 👋</h1>
   <h3>🚀 3D Computer Vision Researcher & Developer</h3>
 </div>
 
