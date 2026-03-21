@@ -1,6 +1,4 @@
 <div align="center">
-  <img src="https://via.placeholder.com/800x250/0d1117/00a8ff?text=3D+Vision+Researcher" alt="3D Vision Banner" width="100%" style="border-radius: 15px;">
-
   <h1>Hi there, I'm [영문 이름 입력] 👋</h1>
   <h3>🚀 3D Computer Vision Researcher & Developer</h3>
 </div>
