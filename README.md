@@ -14,7 +14,6 @@
 
 ## 🔭 Interests & Focus
 * **3D Computer Vision:** 3D Reconstruction, Pose Estimation, Camera Calibration
-* **Medical Imaging:** 2D/3D Medical Image Processing (e.g., Dental Panorama)
 * **Graphics & Simulation:** 3D Space Simulation from 2D Monocular Camera
 
 <br>
