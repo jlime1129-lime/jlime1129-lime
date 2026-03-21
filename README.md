@@ -31,10 +31,10 @@
 
   <tr>
     <td width="55%" align="center">
-      <img src="https://via.placeholder.com/500x300/161b22/10ac84?text=Badminton+3D+Simulation+GIF" width="100%" style="border-radius: 10px;">
+      <img src="https://github.com/jlime1129-lime/3D-Badminton-Simulation/raw/main/debug3D_front.gif" width="100%" style="border-radius: 10px;">
     </td>
     <td width="45%">
-      <h3><a href="[레포지토리 주소, 없으면 #]">Monocular Camera Badminton 3D Simulation</a></h3>
+      <h3><a href="https://github.com/jlime1129-lime/3D-Badminton-Simulation">Monocular Camera Badminton 3D Simulation</a></h3>
       <p>
         <b>Description:</b> 3D Badminton Simulation with Monocular Camera
       </p>
