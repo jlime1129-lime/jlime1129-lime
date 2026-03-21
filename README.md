@@ -49,15 +49,15 @@
 
   <tr>
     <td width="55%" align="center">
-      <img src="https://via.placeholder.com/500x300/161b22/ff9f43?text=Teeth+Panorama+Image" width="100%" style="border-radius: 10px;">
+      <img src="https://github.com/jlime1129-lime/Teeth-panorama/raw/main/Teeth_panorama.png" width="100%" style="border-radius: 10px;">
     </td>
     <td width="45%">
-      <h3><a href="https://github.com/jlime1129-lime/Teeth-panorama">Teeth panorama</a></h3>
+      <h3><a href="https://github.com/jlime1129-lime/Teeth-panorama">Teeth Panorama</a></h3>
       <p>
-        <b>Description:</b> 2D teeth panorama stitching
+        <b>Description:</b> Developed an algorithm to unwrap and flatten a U-shaped dental arch into a straight 2D panoramic image.
       </p>
       <p>
-        <b>Tech:</b> <code>OpenCV</code>, <code>Medical Imaging</code>, <code>Python</code>
+        <b>Tech:</b> <code>OpenCV</code>, <code>Image Unwrapping</code>, <code>Curve Fitting</code>
       </p>
     </td>
   </tr>
