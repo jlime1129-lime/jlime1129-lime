@@ -4,7 +4,7 @@
       <img src="https://via.placeholder.com/500x300/161b22/00a8ff?text=VGGT+3D+Reconstruction+GIF" width="100%" style="border-radius: 10px;">
     </td>
     <td width="45%">
-      <h3><a href="[레포지토리 주소, 없으면 #]">3D Reconstruction with VGGT</a></h3>
+      <h3><a href="[레포지토리 주소, 없으면 #]">3D Reconstruction</a></h3>
       <p>
         <b>Description:</b> 3D reconstruction using 15~20 images just in few seconds
       </p>
