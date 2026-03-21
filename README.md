@@ -5,6 +5,13 @@
   <h3>🚀 3D Computer Vision Researcher & Developer</h3>
 </div>
 
+<br><br>
+
+## 🎓 Education
+* **Sogang University**
+  * **M.S.** in Artificial Intelligence *(In Progress)*
+  * **B.S.** in Computer Science Engineering *(Graduated)*
+
 <br>
 
 ## 🔭 Interests & Focus
@@ -12,15 +19,17 @@
 * **Medical Imaging:** 2D/3D Medical Image Processing (e.g., Dental Panorama)
 * **Graphics & Simulation:** 3D Space Simulation from 2D Monocular Camera
 
-## 🛠️ Languages & Tools
+<br>
+
+## 🏆 Algorithm & Problem Solving
+
 <div align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/> 
-  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/> 
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white"/>
+  <a href="https://solved.ac/profile/maker29">
+    <img src="https://mazassumnida.wtf/api/v2/generate_badge?boj=maker29" alt="Baekjoon Tier"/>
+  </a>
 </div>
 
-<br><br>
+<br>
 
 ## 👁️ 3D Vision Projects
 
@@ -73,10 +82,10 @@
 
 <br><br>
 
-## 🏆 Algorithm & Problem Solving
-
+## 🛠️ Languages & Tools
 <div align="left">
-  <a href="https://solved.ac/profile/maker29">
-    <img src="http://mazassumnida.wtf/api/v1/badge/generate?handle=maker29" alt="Baekjoon Tier"/>
-  </a>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white"/>
 </div>
