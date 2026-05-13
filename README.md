@@ -63,7 +63,7 @@
 
   <tr>
     <td width="55%" align="center">
-      <img src="https://via.placeholder.com/500x300/161b22/00a8ff?text=VGGT+3D+Reconstruction+GIF" width="100%" style="border-radius: 10px;">
+      <img src="https://github.com/jlime1129-lime/3D-Reconstruction/raw/main/Peach.gif" width="100%" style="border-radius: 10px;">
     </td>
     <td width="45%">
       <h3><a href="https://github.com/jlime1129-lime/3D-reconstruction">3D reconstruction</a></h3>
