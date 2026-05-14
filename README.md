@@ -13,8 +13,8 @@
 <br>
 
 ## 🔭 Interests & Focus
+* **Sports Analytics & Human Pose Estimation:** Pose-Anchored Monocular 3D Shuttlecock Reconstruction in Broadcast Badminton
 * **3D Computer Vision:** 3D Reconstruction, Pose Estimation, Camera Calibration
-* **Graphics & Simulation:** 3D Space Simulation from 2D Monocular Camera
 
 <br>
 
