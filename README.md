@@ -38,7 +38,7 @@
     <td width="45%">
       <h3><a href="https://github.com/jlime1129-lime/3D-Badminton-Simulation">Monocular Camera Badminton 3D Simulation</a></h3>
       <p>
-        3D Badminton Simulation with Monocular Camera
+        Pose-Anchored Monocular 3D Shuttlecock Reconstruction in Broadcast Badminton
       </p>
     </td>
   </tr>
