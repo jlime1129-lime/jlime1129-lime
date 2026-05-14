@@ -3,7 +3,11 @@
   <h3>3D Computer Vision Researcher & Developer</h3>
 </div>
 
-<br><br>
+<br>
+
+<p align="center">
+  <img src="https://github.com/jlime1129-lime/3D-Badminton-Simulation/raw/main/debug3D_front.gif" width="60%" style="border-radius: 10px;">
+</p>
 
 ## 🎓 Education
 * **Sogang University**
