@@ -62,18 +62,10 @@
     <td width="45%">
       <h3><a href="https://github.com/jlime1129-lime/3D-reconstruction">3D reconstruction</a></h3>
       <p>
-        3D reconstruction using 15~20 images just in few seconds
+        3D reconstruction using 15~20 2D images just in few seconds
       </p>
     </td>
   </tr>
 </table>
 
 <br><br>
-
-## 🛠️ Languages & Tools
-<div align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/> 
-  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/> 
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white"/>
-</div>
