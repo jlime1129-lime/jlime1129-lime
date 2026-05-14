@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Hi there, I'm Jihoon Lee 👋</h1>
-  <h3>🚀 3D Computer Vision Researcher & Developer</h3>
+  <h3>3D Computer Vision Researcher & Developer</h3>
 </div>
 
 <br><br>
