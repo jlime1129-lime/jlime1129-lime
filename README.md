@@ -38,10 +38,7 @@
     <td width="45%">
       <h3><a href="https://github.com/jlime1129-lime/3D-Badminton-Simulation">Monocular Camera Badminton 3D Simulation</a></h3>
       <p>
-        <b>Description:</b> 3D Badminton Simulation with Monocular Camera
-      </p>
-      <p>
-        <b>Tech:</b> <code>Pose Estimation</code>, <code>3D Simulation</code>, <code>Camera Calibration</code>
+        3D Badminton Simulation with Monocular Camera
       </p>
     </td>
   </tr>
@@ -53,10 +50,7 @@
     <td width="45%">
       <h3><a href="https://github.com/jlime1129-lime/Teeth-panorama">Teeth Panorama</a></h3>
       <p>
-        <b>Description:</b> Developed an algorithm to unwrap and flatten a U-shaped dental arch into a straight 2D panoramic image.
-      </p>
-      <p>
-        <b>Tech:</b> <code>OpenCV</code>, <code>Image Unwrapping</code>, <code>Curve Fitting</code>
+        Developed an algorithm to unwrap and flatten a U-shaped dental arch into a straight 2D panoramic image.
       </p>
     </td>
   </tr>
@@ -68,10 +62,7 @@
     <td width="45%">
       <h3><a href="https://github.com/jlime1129-lime/3D-reconstruction">3D reconstruction</a></h3>
       <p>
-        <b>Description:</b> 3D reconstruction using 15~20 images just in few seconds
-      </p>
-      <p>
-        <b>Tech:</b> <code>PyTorch</code>, <code>VGGT</code>, <code>3D Vision</code>
+        3D reconstruction using 15~20 images just in few seconds
       </p>
     </td>
   </tr>
